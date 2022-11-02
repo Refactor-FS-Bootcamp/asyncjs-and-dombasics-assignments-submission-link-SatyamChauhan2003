@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.card-primary {
+  margin-top: 15px;
+  background-color: rgb(139, 194, 194);
+  padding-left: 15px;
+}
+.card-success {
+  margin-top: 15px;
+  background-color: red;
+  color: white;
+  padding-left: 15px;
+}
